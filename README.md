@@ -3,5 +3,5 @@
 
 ### Note: All Plugins Are No Copyrighted It All For Testing Porposes
 
-## ManyWorld Plugin
-### - Now We E
+## EconomyAPI
+
